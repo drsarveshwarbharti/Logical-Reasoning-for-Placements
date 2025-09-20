@@ -1,0 +1,19 @@
+Q1. Question: "A building has 5 floors. A lives on the 3rd floor, B lives above A, and C lives below A. Who lives on the top floor?"
+Answer: B
+Explanation: B lives above A → highest possible floor among given options → top floor.
+
+Q2. Question: "There are 4 boxes stacked one above the other. Box P is above Box Q. Box R is below Box Q. Which box is at the bottom?"
+Answer: R
+Explanation: Order from top: P, Q, Box X?, R → R is at the bottom.
+
+Q3. Question: "In a 6-floor building, X lives above Y and below Z. Who lives on the lowest floor?"
+Answer: Y
+Explanation: Y is below both X and Z → lowest among the three.
+
+Q4. Question: "There are 3 boxes stacked. The green box is on top, the red box is below the green box. Which box is at the bottom?"
+Answer: Red box
+Explanation: Only two boxes given, red is below green → red is at the bottom.
+
+Q5. Question: "A building has 5 floors. P lives on the 2nd floor, Q lives above P, R lives below P. Who lives on the 1st floor?"
+Answer: R
+Explanation: R lives below P → 1st floor.
