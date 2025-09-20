@@ -1,0 +1,19 @@
+Q1. Question: "If A > B, B > C, and C > D, which of the following is true?"
+Answer: A > D
+Explanation: Given A > B > C > D, the transitive property applies → A > D.
+
+Q2. Question: "If P ≤ Q < R ≤ S, which of the following statements is correct?"
+Answer: P < S
+Explanation: The maximum value of P can be less than or equal to Q, and S is greater than or equal to R. So P < S is always true.
+
+Q3. Question: "X > Y, Y ≥ Z, and Z > W. Which of the following is definitely true?"
+Answer: X > W
+Explanation: X > Y ≥ Z > W → by transitive property, X > W.
+
+Q4. Question: "If M ≤ N < O ≤ P, which of the following may not be true?"
+Answer: M > P
+Explanation: Since M ≤ N < O ≤ P, M > P is impossible. Other relations may hold depending on equality.
+
+Q5. Question: "If 5A + 2B > 3C and B > C, which of the following can be inferred?"
+Answer: 5A + 2C < 5A + 2B → still greater than 3C
+Explanation: Replacing B with C reduces the left-hand side, but the inequality with 3C still holds.
