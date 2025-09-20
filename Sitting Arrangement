@@ -1,0 +1,19 @@
+Q1. Question: "Five friends A, B, C, D, and E are sitting in a row. B is to the left of D but to the right of C. E is at one of the ends. Who is sitting in the middle?"
+Answer: D
+Explanation: Possible arrangement from left to right: E, C, D, B, A → D is in the middle.
+
+Q2. Question: "Six people P, Q, R, S, T, and U are sitting in a circle. P is opposite Q. R is to the immediate left of P. Who is opposite R?"
+Answer: S
+Explanation: Arranging people in the circle based on the given conditions → S ends up opposite R.
+
+Q3. Question: "Four students are sitting around a square table. A sits opposite B. C sits to the right of A. Who sits opposite C?"
+Answer: D
+Explanation: Placing A, B, C, D around the square table according to the rules → D is opposite C.
+
+Q4. Question: "Seven friends are sitting in a row. X is between Y and Z. W is at one end. Who is sitting next to X?"
+Answer: Y and Z
+Explanation: X is flanked by Y and Z → both are next to X.
+
+Q5. Question: "Five people M, N, O, P, and Q are sitting in a circle. M is second to the right of N. O is opposite M. Who is second to the left of O?"
+Answer: N
+Explanation: Arranging the circle according to conditions → N is second to the left of O.
