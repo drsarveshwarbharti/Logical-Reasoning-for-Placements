@@ -1,0 +1,19 @@
+Q1. A is the son of B. B is the sister of C. C has a daughter D.
+Question: How is A related to D?
+Answer: Cousin
+
+Q2. P is married to Q. Q has a brother R. P and Q have a son S.
+Question: How is R related to S?
+Answer: Maternal Uncle
+
+Q3. X is the father of Y. Y has a brother Z. Y has a daughter W.
+Question: How is Z related to W?
+Answer: Maternal Uncle
+
+Q4. A is the sister of B. A is married to C. They have a son D.
+Question: How is D related to B?
+Answer: Nephew
+
+Q5. M is the mother of N. N has a son P. O is M’s father.
+Question: How is O related to P?
+Answer: Great-Grandfather
