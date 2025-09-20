@@ -1,0 +1,19 @@
+Q1. MANGO → NBOPH
+Pattern: each letter is shifted forward by +1 (A→B, B→C, ...).
+Answer: FRUIT → GSVJU
+
+Q2. HELLO → QNNGJ
+Pattern: reverse the word, then shift each letter forward by +2. (HELLO → OLLEH → O→Q, L→N, L→N, E→G, H→J)
+Answer: WORLD → FNTQY
+
+Q3. HELLO → SVOOL
+Pattern: each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, ...).
+Answer: CODE → XLWV
+
+Q4. GLOW → HKQU
+Pattern: alternating shifts: 1st letter +1, 2nd −1, 3rd +2, 4th −2, (and so on).
+Answer: TIME → UHOC
+
+Q5. BOOK → 43
+Pattern: each word is coded as the sum of alphabetical positions of its letters (A=1, B=2, ...). B(2)+O(15)+O(15)+K(11)=43.
+Answer: READ → 28
