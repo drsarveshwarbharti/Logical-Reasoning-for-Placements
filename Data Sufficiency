@@ -1,0 +1,73 @@
+Q1. Question: "What is the age of Aman?"
+Statements:
+I. Aman is 4 years younger than his brother, whose age is twice the age of their sister.
+II. The sum of the ages of Aman, his brother, and their sister is 36 years.
+a) Statement I alone is sufficient, but II alone is not sufficient
+b) Statement II alone is sufficient, but I alone is not sufficient
+c) Both statements I and II together are sufficient, but neither alone is sufficient
+d) Each statement alone is sufficient
+e) Statements I and II together are not sufficient
+
+Answer: c)
+Explanation: Statement I alone gives a relation but not exact ages. Statement II alone gives total age but not individual ages. 
+             Together, both statements are sufficient to find Aman’s age.
+
+
+Q2. Question: "What is the speed of a train in km/h?"
+Statements:
+I. The train covers 180 km in 2 hours less than it takes to cover 270 km at 30 km/h.
+II. The train covers 450 km in 5 hours.
+a) Statement I alone is sufficient, but II alone is not sufficient
+b) Statement II alone is sufficient, but I alone is not sufficient
+c) Both statements I and II together are sufficient, but neither alone is sufficient
+d) Each statement alone is sufficient
+e) Statements I and II together are not sufficient
+
+Answer: d)
+Explanation: Statement I allows calculation of speed = distance/time difference. Statement II directly gives speed = 450/5 = 90 km/h. 
+             Each statement alone is sufficient.
+
+
+Q3. Question: "Is x² – 5x + 6 = 0 true for some integer x?"
+Statements:
+I. x² – 5x + 6 = (x – 2)(x – 3)
+II. x is a positive integer less than 5.
+a) Statement I alone is sufficient, but II alone is not sufficient
+b) Statement II alone is sufficient, but I alone is not sufficient
+c) Both statements I and II together are sufficient, but neither alone is sufficient
+d) Each statement alone is sufficient
+e) Statements I and II together are not sufficient
+
+Answer: c)
+Explanation: Statement I factors the equation but does not indicate integer solutions alone.
+             Statement II gives a range for x. Together, x = 2 or 3, which satisfies the equation.
+
+
+Q4. Question: "What is the value of p/q?"
+Statements:
+I. 2p + 3q = 12
+II. p – q = 2
+a) Statement I alone is sufficient, but II alone is not sufficient
+b) Statement II alone is sufficient, but I alone is not sufficient
+c) Both statements I and II together are sufficient, but neither alone is sufficient
+d) Each statement alone is sufficient
+e) Statements I and II together are not sufficient
+
+Answer: c)
+Explanation: Statement I alone has two variables; insufficient. Statement II alone has two variables; insufficient. 
+             Together, we can solve 2p + 3q = 12 and p – q = 2 → p/q = 4/2 = 2.
+
+
+Q5. Question: "How many students in a class passed both mathematics and science?"
+Statements:
+I. Out of 60 students, 40 passed mathematics and 35 passed science.
+II. 15 students failed in both mathematics and science.
+a) Statement I alone is sufficient, but II alone is not sufficient
+b) Statement II alone is sufficient, but I alone is not sufficient
+c) Both statements I and II together are sufficient, but neither alone is sufficient
+d) Each statement alone is sufficient
+e) Statements I and II together are not sufficient
+
+Answer: c)
+Explanation: Statement I alone does not tell us how many passed both subjects. Statement II alone does not give passing numbers.
+             Together, total students – failed both = 60 – 15 = 45 students passed at least one; using inclusion-exclusion, passed both = 40 + 35 – 45 = 30.
