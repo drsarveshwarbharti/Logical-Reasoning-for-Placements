@@ -1,0 +1,58 @@
+Q1. Statements:
+All cats are animals.
+All animals are living beings.
+
+Conclusions:
+I. All cats are living beings.
+II. All living beings are cats.
+
+Answer: Only conclusion I follows
+Explanation: All cats are animals and all animals are living beings → all cats are living beings. Conclusion II is not true.
+
+
+Q2. Statements:
+Some books are pens.
+All pens are pencils.
+
+Conclusions:
+I. Some books are pencils.
+II. All pencils are pens.
+
+Answer: Neither conclusion I nor II follows
+Explanation: Some books being pens and all pens being pencils does not guarantee any direct relation between books and pencils.
+
+
+Q3. Statements:
+All roses are flowers.
+Some flowers are scented.
+
+Conclusions:
+I. Some roses are scented.
+II. All scented things are flowers.
+
+Answer: Neither conclusion I nor II follows
+Explanation: There is no direct information connecting roses and scented things, so neither conclusion is valid.
+
+
+Q4. Statements:
+All chairs are furniture.
+Some furniture are wooden.
+
+Conclusions:
+I. Some chairs are wooden.
+II. All wooden things are furniture.
+
+Answer: Neither conclusion I nor II follows
+Explanation: Some furniture being wooden does not mean any chair is wooden, nor does it guarantee all wooden things are furniture.
+
+
+Q5. Statements:
+Some trees are mangoes.
+All mangoes are fruits.
+
+Conclusions:
+I. Some trees are fruits.
+II. All fruits are mangoes.
+
+Answer: Only conclusion I follows
+Explanation: Some trees are mangoes and all mangoes are fruits → those trees which are mangoes are fruits. Conclusion II is not true.
