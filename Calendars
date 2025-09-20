@@ -1,0 +1,20 @@
+Q1. Question: "If 1st January 2024 is a Monday, what day of the week will 1st February 2024 be?"
+Answer: Thursday
+Explanation: January 2024 has 31 days → 31 ÷ 7 = 4 weeks + 3 days. 3 days after Monday → Thursday.
+
+Q2. Question: "A person’s birthday falls on 15th August every year. If 15th August 2023 was a Tuesday, on what day will it fall in 2025?"
+Answer: Friday
+Explanation: 2024 is a leap year → add 2 extra day for 2024. 
+             2025 is non-leap year → add 2 extra day for 2024. 
+
+Q3. Question: "If 10th August 2023 is a Thursday, what day will 17th August 2023 be?"
+Answer: Thursday
+Explanation: 17th August is exactly 7 days after 10th August → same weekday = Thursday.
+
+Q4. Question: "If 1st April 2023 is a Wednesday, what day will 31st April 2023 be?"
+Answer: Friday
+Explanation: April 2023 has 31 days → 31 ÷ 7 = 4 weeks + 3 days. 3 days after Wednesday → Friday.
+
+Q5. Question: "If 1st March 2024 is a Friday, what day will 1st March 2025 be?"
+Answer: Saturday
+Explanation: 2024 is a leap year → 366 days → 366 ÷ 7 = 52 weeks + 2 days. So, 1st March 2025 = Friday + 2 days → Saturday.
