@@ -1,0 +1,19 @@
+Q1. C, F, J, O, ?
+Pattern: increments increase by 1 each time (+3, +4, +5, +6 → next +7).
+Answer: V
+
+Q2. B, C, E, G, K, ?
+Pattern: letters at prime positions (2, 3, 5, 7, 11 → next prime 13).
+Answer: M
+
+Q3. A, Z, B, Y, C, X, ?
+Pattern: two interleaved sequences — forward (A,B,C,...) and backward (Z,Y,X,...).
+Answer: D, W
+
+Q4. P, R, O, Q, N, ?
+Pattern: alternately +2, −2, +2, −2...
+Answer: P
+
+Q5. A, B, D, G, L, ?
+Pattern: increments follow Fibonacci numbers (+1, +2, +3, +5 → next +8).
+Answer: T
